@@ -1,1 +1,1 @@
-Please plug PWM(orange) in PIN 9 and plug 5v(Red) + GND(Black)
+Please plug PWM(orange) in PIN 9 , plug 5v(Red) and GND(Black).
